@@ -1,13 +1,13 @@
 # FIXUS-App
- CT fractures detection system for ankles and legs
+ CT fracture detection system for ankles and foots
  -------------------------------------------------
  
  Models:-
  
- - Foot & Ankle Classifier.
- - Normal or Damaged Classifier (Foot).
- - Normal or Damaged Classifier (Ankle).
- - Fracture Segmentation Model (Foot).
- - Fracture Segmentation Model (Ankle).
- - Reinforcement learning Optimization Cycle.
- 
+ - Foot & Ankle Classifier. ✔
+ - normal/abnormal ap-view (Foot & Ankle). ✔
+ - normal/abnormal lateral-view (Foot & Ankle). ✔
+ - normal/abnormal oblique-view (Foot & Ankle). ✔
+ - Grad-CAM generator. ✔
+ - Salliancy map generator. ✔
+ - Reinforcement learning feedback loop.
