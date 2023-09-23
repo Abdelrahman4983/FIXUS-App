@@ -11,3 +11,5 @@
  - Grad-CAM generator. ✔
  - Salliancy map generator. ✔
  - Reinforcement learning feedback loop.
+
+Download models from here: https://drive.google.com/drive/folders/1q2EjdQVFh0qWr6rIalIYoVSoDqc87BKi?usp=sharing
