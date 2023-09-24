@@ -13,3 +13,5 @@
  - Reinforcement learning feedback loop.
 
 Download models from here: https://drive.google.com/drive/folders/1q2EjdQVFh0qWr6rIalIYoVSoDqc87BKi?usp=sharing
+
+Notebooks for training models here: https://drive.google.com/drive/folders/1CHtvFTHzIGV-CwJ7K78YJJ70ecOTO_cG?usp=sharing
