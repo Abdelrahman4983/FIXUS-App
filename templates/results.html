@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>CT Scan Diagnosis Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <center>
+    <div class="results-container">
+        {% for result in results %}
+            <div class="result">
+                <h2 class="prediction">Prediction: {{ result['prediction'] }}</h2>
+                <img src="{{ result['heatmap'] }}" alt="Heatmap">
+            </div>
+        {% endfor %}
+    </div>
+    </center>
+</body>
+</html>
